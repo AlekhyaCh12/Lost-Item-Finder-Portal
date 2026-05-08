@@ -1,0 +1,21 @@
+{
+  "name": "lost-item-finder-portal",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
